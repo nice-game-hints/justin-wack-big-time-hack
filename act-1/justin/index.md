@@ -1,6 +1,6 @@
 ---
 title: Act 1 - Justin
-linkTitle: Justing
+linkTitle: Justin
 order: 200
 ---
 

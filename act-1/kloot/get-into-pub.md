@@ -1,8 +1,8 @@
 ---
 title: Getting into the pub
 keywords: squids, mike
-order: 47
-----
+order: 30
+---
 
 Mike the bouncer is guarding the pub called Squid's. **Kloot** is not on the list.
 
