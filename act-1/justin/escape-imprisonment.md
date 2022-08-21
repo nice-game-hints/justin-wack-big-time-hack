@@ -1,6 +1,6 @@
 ---
 title: Escape imprisonment
-order: 20
+order: 10
 ---
 
 Justin is captured by that Pythonic Empire agent.

@@ -1,6 +1,6 @@
 ---
 title: Grabbing the communication device
-order: 43
+order: 20
 ---
 
 There is a communication device near **Justin**'s cell.
