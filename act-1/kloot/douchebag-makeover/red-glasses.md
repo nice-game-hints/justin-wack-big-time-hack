@@ -1,5 +1,5 @@
 ---
-title: Douchebag makeover: Red glasses
+title: "Douchebag makeover: Red glasses"
 linkTitle: Red glasses
 order: 20
 ---
