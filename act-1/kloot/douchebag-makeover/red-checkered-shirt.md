@@ -1,5 +1,5 @@
 ---
-title: Douchebag makeover: Red checkered shirt
+title: "Douchebag makeover: Red checkered shirt"
 linkTitle: Red checkered shirt
 order: 10
 ---
