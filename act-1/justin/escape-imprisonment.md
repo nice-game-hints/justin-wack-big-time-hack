@@ -20,10 +20,10 @@ Grab the communication device from the table using the net.
 # How does the comm device help Justin escape?
 Not Justin, just now. But Justin can interfere with the time Kloot is in.
 
-**Kloot** should try to get through [the lift control](outsmart-lift.md), first.
+**Kloot** should try to get through [the lift control](../kloot/outsmart-lift.md), first.
 
 # Kloot fooled the lift
-And now the other agent is looking for him. [Help Kloot.](office-agent.md)
+And now the other agent is looking for him. [Help Kloot.](../kloot/office-agent.md)
 
 # The agent is out, but Justin is still in
 You have now more stuff to talk with the agent guarding Justin.
@@ -34,7 +34,7 @@ Ask if we would like to be in a show. Say that he is ruthless. You learn his ser
 # Serial number, eh?
 Yeah, use that comms device. ^[ Report about faulty unit with serial number QP-42. ]
 
-# It destroyed
+# QP-42 is destroyed!
 And the hat flew there.
 
 ## What about the hat?

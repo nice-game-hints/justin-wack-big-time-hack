@@ -11,6 +11,6 @@ It works by sitting on it and something running on the hamster wheel.
 Some small animal is probably the best.
 
 ## What animal?
-[Catch a rabbit.](catch-rabbit.md)
+[Catch a rabbit.](catch-rabbit/index.md)
 
 Put the rabbit into the hamster wheel to start the time machine.

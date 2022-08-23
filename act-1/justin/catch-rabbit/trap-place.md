@@ -13,4 +13,4 @@ Have you seen rabbits jumping around? You could try for suitable place by puttin
 As Daela said, you should "hatch" a plan.
 
 ## "Hatch"?
-Set your rabbit trap into the space ship hatch. Remove the [big rock](bigrock.md), first.
+Set your rabbit trap into the space ship hatch. Remove the [big rock](../bigrock.md), first.

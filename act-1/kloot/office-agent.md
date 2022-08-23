@@ -9,7 +9,7 @@ The Pythonic Empire agent came looking for **Kloot** at the office. He keeps gua
 I think all the agents are part of some kind of transmission network that spans over time.
 
 ## Okay?
-Did you spot the communication device near **Justin**'s cell? [Grab it.](comm-device.md)
+Did you spot the communication device near **Justin**'s cell? [Grab it.](../justin/comm-device.md)
 
 # I have the communication device
 Now you can send distress signals to all agents.
