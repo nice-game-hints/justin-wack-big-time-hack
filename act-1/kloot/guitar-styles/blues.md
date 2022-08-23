@@ -22,7 +22,7 @@ You got the Butch's Blues Bunch cassette demo? Cool!
 Did you do your job, already?
 
 # My job?
-You are the _waiter_ in [the pub](get-into-pub.md), right?
+You are the _waiter_ in [the pub](../get-into-pub.md), right?
 
 Serve the food on the counter to the guy with the suit. ^[ Remember to add some salt into the food, first. ]
 
