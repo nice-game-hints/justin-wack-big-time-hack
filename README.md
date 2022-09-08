@@ -1,3 +1,5 @@
+⚠️ The hints for Justin Wack and the Big Time Hack are still work in progress. Only the first act is complete. To help with writing rest of the acts you can sponsor me, or participate yourself in writing the hints. Create an issue to contact me about this.
+
 # Writing a guide
 So, you want to write your own hints for a game? That's cool. Every game should have spoiler free hints! Best place to start is [this template repository](https://github.com/nice-game-hints/template). It has examples and the following instructions.
 
