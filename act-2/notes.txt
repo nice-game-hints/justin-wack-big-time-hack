@@ -9,6 +9,10 @@ ITEMS - JUSTIN:
  - Thickosaurus intestines from the hunting lodge
  - Slinkosaurus intestines from the hunting lodge
  - Wrench from the mountain top (after the dodo)
+ - Syringe from doctor's appointment
+
+ITEMS - KLOOT:
+ - toy soldier from the crapo-sphereTM in the corner shop
 
 
 GUIDES - JUSTIN:

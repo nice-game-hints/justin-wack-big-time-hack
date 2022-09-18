@@ -41,4 +41,7 @@ You should use the other intestines, also ^[ Use the slinkosaurus intestines on 
 Now you should succeed with the space flight.
 
 # Yeah, but Justin's fingers are too short!
-Oh, you need one more item. [A bigger hand!](tbd)
+Oh, you need one more item. [A bigger hand!](../foam-finger.md)
+
+# I have the bigger finger!
+Now you should have everything to grab some space dust.
