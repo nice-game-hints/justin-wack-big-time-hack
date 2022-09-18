@@ -10,5 +10,3 @@ The stairs are out of order, too. There must be another way out.
 
 ## What way?
 Slide the pole.
-
-There is [a secret floor](secret-floor.md) in the middle of the building.
