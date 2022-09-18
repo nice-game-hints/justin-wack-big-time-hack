@@ -21,7 +21,7 @@ Make it wet. Pour some liquid on to it.
 Something in the mug.
 
 ## Tell me what liquid to pour on the spot
-Pour some [hot camomille tea](allergy-potion/hot-camomille-tea.md) on the dry spot.
+Pour some [hot camomile tea](allergy-potion/hot-camomile-tea.md) on the dry spot.
 
 You can now grab Sushi to go.
 
