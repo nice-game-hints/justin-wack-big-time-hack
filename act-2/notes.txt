@@ -8,6 +8,7 @@ ITEMS - JUSTIN:
  - Bob's bone from the "museum" (left from the Pythonic lab entrance)
  - Thickosaurus intestines from the hunting lodge
  - Slinkosaurus intestines from the hunting lodge
+ - Wrench from the mountain top (after the dodo)
 
 
 GUIDES - JUSTIN:
